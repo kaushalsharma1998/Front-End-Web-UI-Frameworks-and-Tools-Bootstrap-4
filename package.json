@@ -1,0 +1,24 @@
+{
+  "name": "coursera_webdev",
+  "version": "1.0.0",
+  "description": "This is a test directory",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npm run lite",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushalsharma1998/Coursera_WebDev.git"
+  },
+  "author": "Kaushal Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushalsharma1998/Coursera_WebDev/issues"
+  },
+  "homepage": "https://github.com/kaushalsharma1998/Coursera_WebDev#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
